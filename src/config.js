@@ -1,4 +1,6 @@
 const config = {
+    STRIPE_KEY: "pk_test_51IGoIbEfaeo2gzHs0umCxkXiBTAMAQiEMbq45a7Ow3JgH5LPdfLl1G4n7qtpdhn8jhBA1rQgEQznjnDN8jmTbwbM007iZVKkUJ",
+    MAX_ATTACHMENT_SIZE: 5000000,
     s3: {
       REGION: "us-east-1",
       BUCKET: "sal-notes-app-upload",
